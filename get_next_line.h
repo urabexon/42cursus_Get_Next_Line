@@ -6,7 +6,7 @@
 /*   By: hurabe <hurabe@student.42tokyo.jp>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/04 17:37:57 by hurabe            #+#    #+#             */
-/*   Updated: 2024/07/07 19:19:07 by hurabe           ###   ########.fr       */
+/*   Updated: 2024/07/08 16:37:43 by hurabe           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,6 +18,7 @@
 # include <stdlib.h>
 # include <fcntl.h>
 # include <stdio.h>
+# include <string.h>
 
 //buffer
 # ifndef BUFFER_SIZE
